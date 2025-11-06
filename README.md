@@ -11,10 +11,6 @@ Backup/secondary account.
 
 <div align="center" style="max-width: 980px; margin: auto;">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lappen123test&label=Profile%20Views&color=8a7cfb&style=flat" alt="profile views">
-</p>
-
 <table>
   <tr>
     <td align="center" colspan="2">
