@@ -1,10 +1,5 @@
 <!-- Profile README for github.com/lappen123test -->
 <!-- Blue/Violet minimal theme, tidy boxed layout -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lappen123test&label=Profile%20Views&color=8a7cfb&style=flat" alt="profile views">
-</p>
-
 # Backup-Git-Acc
 
 Hobby dev — I build small game tools and utility apps.  
@@ -15,6 +10,10 @@ Backup/secondary account.
 ## GitHub Stats
 
 <div align="center" style="max-width: 980px; margin: auto;">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lappen123test&label=Profile%20Views&color=8a7cfb&style=flat" alt="profile views">
+</p>
 
 <table>
   <tr>
